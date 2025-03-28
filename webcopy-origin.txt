@@ -1,0 +1,896 @@
+Uri: https://armorshieldinno.weebly.com/
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\index.htm
+Content Type: text/html
+
+Uri: https://armorshieldinno.weebly.com/about-us.html
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\about-us.html
+Content Type: text/html
+
+Uri: https://armorshieldinno.weebly.com/bio-green.html
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\bio-green.html
+Content Type: text/html
+
+Uri: https://armorshieldinno.weebly.com/case-study.html
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\case-study.html
+Content Type: text/html
+
+Uri: https://armorshieldinno.weebly.com/cdn-cgi/images/browser-bar.png?1376755637
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\cdn-cgi\images\browser-bar.png
+Content Type: image/png
+
+Uri: https://armorshieldinno.weebly.com/cdn-cgi/images/cf-icon-browser.png
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\cdn-cgi\images\cf-icon-browser.png
+Content Type: image/png
+
+Uri: https://armorshieldinno.weebly.com/cdn-cgi/images/cf-icon-cloud.png
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\cdn-cgi\images\cf-icon-cloud.png
+Content Type: image/png
+
+Uri: https://armorshieldinno.weebly.com/cdn-cgi/images/cf-icon-error.png
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\cdn-cgi\images\cf-icon-error.png
+Content Type: image/png
+
+Uri: https://armorshieldinno.weebly.com/cdn-cgi/images/cf-icon-horizontal-arrow.png
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\cdn-cgi\images\cf-icon-horizontal-arrow.png
+Content Type: image/png
+
+Uri: https://armorshieldinno.weebly.com/cdn-cgi/images/cf-icon-ok.png
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\cdn-cgi\images\cf-icon-ok.png
+Content Type: image/png
+
+Uri: https://armorshieldinno.weebly.com/cdn-cgi/images/cf-icon-server.png
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\cdn-cgi\images\cf-icon-server.png
+Content Type: image/png
+
+Uri: https://armorshieldinno.weebly.com/cdn-cgi/images/cf-no-screenshot-error.png
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\cdn-cgi\images\cf-no-screenshot-error.png
+Content Type: image/png
+
+Uri: https://armorshieldinno.weebly.com/cdn-cgi/images/cf-no-screenshot-warn.png
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\cdn-cgi\images\cf-no-screenshot-warn.png
+Content Type: image/png
+
+Uri: https://armorshieldinno.weebly.com/cdn-cgi/images/icon-exclamation.png?1376755637
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\cdn-cgi\images\icon-exclamation.png
+Content Type: image/png
+
+Uri: https://armorshieldinno.weebly.com/cdn-cgi/l/email-protection
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\cdn-cgi\l\email-protection.html
+Content Type: text/html
+
+Uri: https://armorshieldinno.weebly.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://armorshieldinno.weebly.com/cdn-cgi/styles/cf.errors.css
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\cdn-cgi\styles\cf.errors.css
+Content Type: text/css
+
+Uri: https://armorshieldinno.weebly.com/contact-us.html
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\contact-us.html
+Content Type: text/html
+
+Uri: https://armorshieldinno.weebly.com/files/main_style.css?1743147050
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\files\main_style.css
+Content Type: text/css
+
+Uri: https://armorshieldinno.weebly.com/files/templateArtifacts.js?1743147050
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\files\templateArtifacts.js
+Content Type: application/x-javascript
+
+Uri: https://armorshieldinno.weebly.com/files/theme/custom.js?1743084435
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\files\theme\custom.js
+Content Type: application/javascript
+
+Uri: https://armorshieldinno.weebly.com/files/theme/images/default-bg.jpg?1743147050
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\files\theme\images\default-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://armorshieldinno.weebly.com/files/theme/images/select-dropdown.png?1743147050
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\files\theme\images\select-dropdown.png
+Content Type: image/png
+
+Uri: https://armorshieldinno.weebly.com/files/theme/plugins.js?1743084435
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\files\theme\plugins.js
+Content Type: application/javascript
+
+Uri: https://armorshieldinno.weebly.com/leather-project.html
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\leather-project.html
+Content Type: text/html
+
+Uri: https://armorshieldinno.weebly.com/new-page.html
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\new-page.html
+Content Type: text/html
+
+Uri: https://armorshieldinno.weebly.com/products.html
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\products.html
+Content Type: text/html
+
+Uri: https://armorshieldinno.weebly.com/services.html
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\services.html
+Content Type: text/html
+
+Uri: https://armorshieldinno.weebly.com/silk-project.html
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\silk-project.html
+Content Type: text/html
+
+Uri: https://armorshieldinno.weebly.com/solution.html
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\solution.html
+Content Type: text/html
+
+Uri: https://armorshieldinno.weebly.com/textile-project.html
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\textile-project.html
+Content Type: text/html
+
+Uri: https://armorshieldinno.weebly.com/uploads/1/5/2/4/152480530/01_1_orig.png
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\uploads\1\5\2\4\152480530\01_1_orig.png
+Content Type: image/png
+
+Uri: https://armorshieldinno.weebly.com/uploads/1/5/2/4/152480530/02_1_orig.png
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\uploads\1\5\2\4\152480530\02_1_orig.png
+Content Type: image/png
+
+Uri: https://armorshieldinno.weebly.com/uploads/1/5/2/4/152480530/16x9-many-leathers-are-coated-with-n_orig.png
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\uploads\1\5\2\4\152480530\16x9-many-leathers-are-coated-with-n_orig.png
+Content Type: image/png
+
+Uri: https://armorshieldinno.weebly.com/uploads/1/5/2/4/152480530/16x9-rich-type-threads-and-wool-are-k_orig.png
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\uploads\1\5\2\4\152480530\16x9-rich-type-threads-and-wool-are-k_orig.png
+Content Type: image/png
+
+Uri: https://armorshieldinno.weebly.com/uploads/1/5/2/4/152480530/16x9-silk-warm-made-silk-derived-from_orig.png
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\uploads\1\5\2\4\152480530\16x9-silk-warm-made-silk-derived-from_orig.png
+Content Type: image/png
+
+Uri: https://armorshieldinno.weebly.com/uploads/1/5/2/4/152480530/1_1.png
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\uploads\1\5\2\4\152480530\1_1.png
+Content Type: image/png
+
+Uri: https://armorshieldinno.weebly.com/uploads/1/5/2/4/152480530/2_1.png
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\uploads\1\5\2\4\152480530\2_1.png
+Content Type: image/png
+
+Uri: https://armorshieldinno.weebly.com/uploads/1/5/2/4/152480530/3_1.png
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\uploads\1\5\2\4\152480530\3_1.png
+Content Type: image/png
+
+Uri: https://armorshieldinno.weebly.com/uploads/1/5/2/4/152480530/armorlogo_1.png
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\uploads\1\5\2\4\152480530\armorlogo_1.png
+Content Type: image/png
+
+Uri: https://armorshieldinno.weebly.com/uploads/1/5/2/4/152480530/armorlogo_2.png
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\uploads\1\5\2\4\152480530\armorlogo_2.png
+Content Type: image/png
+
+Uri: https://armorshieldinno.weebly.com/uploads/1/5/2/4/152480530/armorlogo_3.png
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\uploads\1\5\2\4\152480530\armorlogo_3.png
+Content Type: image/png
+
+Uri: https://armorshieldinno.weebly.com/uploads/1/5/2/4/152480530/armorlogo_4.png
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\uploads\1\5\2\4\152480530\armorlogo_4.png
+Content Type: image/png
+
+Uri: https://armorshieldinno.weebly.com/uploads/1/5/2/4/152480530/armorlogo_5.png
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\uploads\1\5\2\4\152480530\armorlogo_5.png
+Content Type: image/png
+
+Uri: https://armorshieldinno.weebly.com/uploads/1/5/2/4/152480530/armorlogo_6.png
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\uploads\1\5\2\4\152480530\armorlogo_6.png
+Content Type: image/png
+
+Uri: https://armorshieldinno.weebly.com/uploads/1/5/2/4/152480530/armorlogo_8.png
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\uploads\1\5\2\4\152480530\armorlogo_8.png
+Content Type: image/png
+
+Uri: https://armorshieldinno.weebly.com/uploads/1/5/2/4/152480530/armorlogo_orig.png
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\uploads\1\5\2\4\152480530\armorlogo_orig.png
+Content Type: image/png
+
+Uri: https://armorshieldinno.weebly.com/uploads/1/5/2/4/152480530/background-images/1051449258.jpg
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\uploads\1\5\2\4\152480530\background-images\1051449258.jpg
+Content Type: image/jpeg
+
+Uri: https://armorshieldinno.weebly.com/uploads/1/5/2/4/152480530/background-images/1546079677.jpg
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\uploads\1\5\2\4\152480530\background-images\1546079677.jpg
+Content Type: image/jpeg
+
+Uri: https://armorshieldinno.weebly.com/uploads/1/5/2/4/152480530/background-images/1668522804.png
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\uploads\1\5\2\4\152480530\background-images\1668522804.png
+Content Type: image/png
+
+Uri: https://armorshieldinno.weebly.com/uploads/1/5/2/4/152480530/background-images/1765388189.jpg
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\uploads\1\5\2\4\152480530\background-images\1765388189.jpg
+Content Type: image/jpeg
+
+Uri: https://armorshieldinno.weebly.com/uploads/1/5/2/4/152480530/background-images/1890155307.jpg
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\uploads\1\5\2\4\152480530\background-images\1890155307.jpg
+Content Type: image/jpeg
+
+Uri: https://armorshieldinno.weebly.com/uploads/1/5/2/4/152480530/background-images/1902818335.jpg
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\uploads\1\5\2\4\152480530\background-images\1902818335.jpg
+Content Type: image/jpeg
+
+Uri: https://armorshieldinno.weebly.com/uploads/1/5/2/4/152480530/background-images/1912843734.jpg
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\uploads\1\5\2\4\152480530\background-images\1912843734.jpg
+Content Type: image/jpeg
+
+Uri: https://armorshieldinno.weebly.com/uploads/1/5/2/4/152480530/background-images/2099218238.jpg
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\uploads\1\5\2\4\152480530\background-images\2099218238.jpg
+Content Type: image/jpeg
+
+Uri: https://armorshieldinno.weebly.com/uploads/1/5/2/4/152480530/background-images/301274766.jpg
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\uploads\1\5\2\4\152480530\background-images\301274766.jpg
+Content Type: image/jpeg
+
+Uri: https://armorshieldinno.weebly.com/uploads/1/5/2/4/152480530/background-images/425283649.jpg
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\uploads\1\5\2\4\152480530\background-images\425283649.jpg
+Content Type: image/jpeg
+
+Uri: https://armorshieldinno.weebly.com/uploads/1/5/2/4/152480530/background-images/505412205.jpg
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\uploads\1\5\2\4\152480530\background-images\505412205.jpg
+Content Type: image/jpeg
+
+Uri: https://armorshieldinno.weebly.com/uploads/1/5/2/4/152480530/background-images/530889458.jpg
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\uploads\1\5\2\4\152480530\background-images\530889458.jpg
+Content Type: image/jpeg
+
+Uri: https://armorshieldinno.weebly.com/uploads/1/5/2/4/152480530/editor/modern-medical-research-laboratory-microscope-600nw-1924512428.webp?1741774944
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\uploads\1\5\2\4\152480530\editor\modern-medical-research-laboratory-microscope-600nw-1924512428.webp
+Content Type: image/webp
+
+Uri: https://armorshieldinno.weebly.com/uploads/1/5/2/4/152480530/leather123_orig.webp
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\uploads\1\5\2\4\152480530\leather123_orig.webp
+Content Type: image/webp
+
+Uri: https://armorshieldinno.weebly.com/uploads/1/5/2/4/152480530/logoo12345.png
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\uploads\1\5\2\4\152480530\logoo12345.png
+Content Type: image/png
+
+Uri: https://armorshieldinno.weebly.com/uploads/1/5/2/4/152480530/nano-coating-prevnt_orig.png
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\uploads\1\5\2\4\152480530\nano-coating-prevnt_orig.png
+Content Type: image/png
+
+Uri: https://armorshieldinno.weebly.com/uploads/1/5/2/4/152480530/nano-coating222_orig.jpeg
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\uploads\1\5\2\4\152480530\nano-coating222_orig.jpeg
+Content Type: image/jpeg
+
+Uri: https://armorshieldinno.weebly.com/uploads/1/5/2/4/152480530/nano-coating_orig.png
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\uploads\1\5\2\4\152480530\nano-coating_orig.png
+Content Type: image/png
+
+Uri: https://armorshieldinno.weebly.com/uploads/1/5/2/4/152480530/published/contact-us-upscayl-3x-upscayl-standard-4x.png?1743075561
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\uploads\1\5\2\4\152480530\published\contact-us-upscayl-3x-upscayl-standard-4x.png
+Content Type: image/png
+
+Uri: https://armorshieldinno.weebly.com/uploads/1/5/2/4/152480530/published/erasebg-transformed.png?1742641230
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\uploads\1\5\2\4\152480530\published\erasebg-transformed.png
+Content Type: image/png
+
+Uri: https://armorshieldinno.weebly.com/uploads/1/5/2/4/152480530/published/round-2-img-1.png?1742647375
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\uploads\1\5\2\4\152480530\published\round-2-img-1.png
+Content Type: image/png
+
+Uri: https://armorshieldinno.weebly.com/uploads/1/5/2/4/152480530/published/round-2-img.png?1742647196
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\uploads\1\5\2\4\152480530\published\round-2-img.png
+Content Type: image/png
+
+Uri: https://armorshieldinno.weebly.com/uploads/1/5/2/4/152480530/published/round-img-3.png?1742646867
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\uploads\1\5\2\4\152480530\published\round-img-3.png
+Content Type: image/png
+
+Uri: https://armorshieldinno.weebly.com/uploads/1/5/2/4/152480530/silkprdct_orig.png
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\uploads\1\5\2\4\152480530\silkprdct_orig.png
+Content Type: image/png
+
+Uri: https://armorshieldinno.weebly.com/uploads/1/5/2/4/152480530/textile-prdct_orig.jpeg
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\uploads\1\5\2\4\152480530\textile-prdct_orig.jpeg
+Content Type: image/jpeg
+
+Uri: https://armorshieldinno.weebly.com/uploads/1/5/2/4/152480530/unearthing-the-history-of-nanotechnology-from-vision-to-reality-by-thriam_orig.webp
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\uploads\1\5\2\4\152480530\unearthing-the-history-of-nanotechnology-from-vision-to-reality-by-thriam_orig.webp
+Content Type: image/webp
+
+Uri: https://cdn2.editmysite.com/css/old/fancybox.css?1743114653
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\css\old\fancybox.css
+Content Type: text/css
+
+Uri: https://cdn2.editmysite.com/css/old/slideshow/slideshow.css?1743114653
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\css\old\slideshow\slideshow.css
+Content Type: text/css
+
+Uri: https://cdn2.editmysite.com/css/sites.css?buildTime=1743114653
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\css\sites.css
+Content Type: text/css
+
+Uri: https://cdn2.editmysite.com/css/social-icons.css?buildtime=1743114653
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\css\social-icons.css
+Content Type: text/css
+
+Uri: https://cdn2.editmysite.com/fonts/Coustard/font.css?2
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\fonts\Coustard\font.css
+Content Type: text/css
+
+Uri: https://cdn2.editmysite.com/fonts/Coustard/regular.eot
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\fonts\Coustard\regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn2.editmysite.com/fonts/Coustard/regular.eot?
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\fonts\Coustard\regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn2.editmysite.com/fonts/Coustard/regular.ttf
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\fonts\Coustard\regular.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdn2.editmysite.com/fonts/Coustard/regular.woff
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\fonts\Coustard\regular.woff
+Content Type: font/woff
+
+Uri: https://cdn2.editmysite.com/fonts/Coustard/regular.woff2
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\fonts\Coustard\regular.woff2
+Content Type: font/woff2
+
+Uri: https://cdn2.editmysite.com/fonts/Josefin_Sans/bold.eot
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\fonts\Josefin_Sans\bold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn2.editmysite.com/fonts/Josefin_Sans/bold.eot?
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\fonts\Josefin_Sans\bold-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn2.editmysite.com/fonts/Josefin_Sans/bold.ttf
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\fonts\Josefin_Sans\bold.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdn2.editmysite.com/fonts/Josefin_Sans/bold.woff
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\fonts\Josefin_Sans\bold.woff
+Content Type: font/woff
+
+Uri: https://cdn2.editmysite.com/fonts/Josefin_Sans/bold.woff2
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\fonts\Josefin_Sans\bold.woff2
+Content Type: font/woff2
+
+Uri: https://cdn2.editmysite.com/fonts/Josefin_Sans/bolditalic.eot
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\fonts\Josefin_Sans\bolditalic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn2.editmysite.com/fonts/Josefin_Sans/bolditalic.eot?
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\fonts\Josefin_Sans\bolditalic-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn2.editmysite.com/fonts/Josefin_Sans/bolditalic.ttf
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\fonts\Josefin_Sans\bolditalic.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdn2.editmysite.com/fonts/Josefin_Sans/bolditalic.woff
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\fonts\Josefin_Sans\bolditalic.woff
+Content Type: font/woff
+
+Uri: https://cdn2.editmysite.com/fonts/Josefin_Sans/bolditalic.woff2
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\fonts\Josefin_Sans\bolditalic.woff2
+Content Type: font/woff2
+
+Uri: https://cdn2.editmysite.com/fonts/Josefin_Sans/font.css?2
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\fonts\Josefin_Sans\font.css
+Content Type: text/css
+
+Uri: https://cdn2.editmysite.com/fonts/Josefin_Sans/italic.eot
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\fonts\Josefin_Sans\italic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn2.editmysite.com/fonts/Josefin_Sans/italic.eot?
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\fonts\Josefin_Sans\italic-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn2.editmysite.com/fonts/Josefin_Sans/italic.ttf
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\fonts\Josefin_Sans\italic.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdn2.editmysite.com/fonts/Josefin_Sans/italic.woff
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\fonts\Josefin_Sans\italic.woff
+Content Type: font/woff
+
+Uri: https://cdn2.editmysite.com/fonts/Josefin_Sans/italic.woff2
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\fonts\Josefin_Sans\italic.woff2
+Content Type: font/woff2
+
+Uri: https://cdn2.editmysite.com/fonts/Josefin_Sans/light.eot
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\fonts\Josefin_Sans\light.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn2.editmysite.com/fonts/Josefin_Sans/light.eot?
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\fonts\Josefin_Sans\light-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn2.editmysite.com/fonts/Josefin_Sans/light.ttf
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\fonts\Josefin_Sans\light.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdn2.editmysite.com/fonts/Josefin_Sans/light.woff
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\fonts\Josefin_Sans\light.woff
+Content Type: font/woff
+
+Uri: https://cdn2.editmysite.com/fonts/Josefin_Sans/light.woff2
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\fonts\Josefin_Sans\light.woff2
+Content Type: font/woff2
+
+Uri: https://cdn2.editmysite.com/fonts/Josefin_Sans/lightitalic.eot
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\fonts\Josefin_Sans\lightitalic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn2.editmysite.com/fonts/Josefin_Sans/lightitalic.eot?
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\fonts\Josefin_Sans\lightitalic-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn2.editmysite.com/fonts/Josefin_Sans/lightitalic.ttf
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\fonts\Josefin_Sans\lightitalic.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdn2.editmysite.com/fonts/Josefin_Sans/lightitalic.woff
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\fonts\Josefin_Sans\lightitalic.woff
+Content Type: font/woff
+
+Uri: https://cdn2.editmysite.com/fonts/Josefin_Sans/lightitalic.woff2
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\fonts\Josefin_Sans\lightitalic.woff2
+Content Type: font/woff2
+
+Uri: https://cdn2.editmysite.com/fonts/Josefin_Sans/regular.eot
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\fonts\Josefin_Sans\regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn2.editmysite.com/fonts/Josefin_Sans/regular.eot?
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\fonts\Josefin_Sans\regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn2.editmysite.com/fonts/Josefin_Sans/regular.ttf
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\fonts\Josefin_Sans\regular.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdn2.editmysite.com/fonts/Josefin_Sans/regular.woff
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\fonts\Josefin_Sans\regular.woff
+Content Type: font/woff
+
+Uri: https://cdn2.editmysite.com/fonts/Josefin_Sans/regular.woff2
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\fonts\Josefin_Sans\regular.woff2
+Content Type: font/woff2
+
+Uri: https://cdn2.editmysite.com/fonts/Proxima-Light/267447_4_0.eot?123597
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\fonts\Proxima-Light\267447_4_0-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn2.editmysite.com/fonts/Proxima-Light/267447_4_0.eot?321123597
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\fonts\Proxima-Light\267447_4_0.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn2.editmysite.com/fonts/Proxima-Light/267447_4_0.ttf?123597
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\fonts\Proxima-Light\267447_4_0.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdn2.editmysite.com/fonts/Proxima-Light/267447_4_0.woff?123597
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\fonts\Proxima-Light\267447_4_0.woff
+Content Type: font/woff
+
+Uri: https://cdn2.editmysite.com/fonts/Proxima-Semibold/267447_5_0.eot?
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\fonts\Proxima-Semibold\267447_5_0-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn2.editmysite.com/fonts/Proxima-Semibold/267447_5_0.eot?123597
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\fonts\Proxima-Semibold\267447_5_0.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn2.editmysite.com/fonts/Proxima-Semibold/267447_5_0.ttf?123597
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\fonts\Proxima-Semibold\267447_5_0.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdn2.editmysite.com/fonts/Proxima-Semibold/267447_5_0.woff?123597
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\fonts\Proxima-Semibold\267447_5_0.woff
+Content Type: font/woff
+
+Uri: https://cdn2.editmysite.com/fonts/SQ_Market/sqmarket-medium.woff
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\fonts\SQ_Market\sqmarket-medium.woff
+Content Type: font/woff
+
+Uri: https://cdn2.editmysite.com/fonts/SQ_Market/sqmarket-medium.woff2
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\fonts\SQ_Market\sqmarket-medium.woff2
+Content Type: font/woff2
+
+Uri: https://cdn2.editmysite.com/fonts/wSocial/wsocial.eot?cachebust=true
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\fonts\wSocial\wsocial.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn2.editmysite.com/fonts/wSocial/wsocial.svg?cachebust=true
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\fonts\wSocial\wsocial.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn2.editmysite.com/fonts/wSocial/wsocial.ttf?cachebust=true
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\fonts\wSocial\wsocial.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdn2.editmysite.com/fonts/wSocial/wsocial.woff?cachebust=true
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\fonts\wSocial\wsocial.woff
+Content Type: font/woff
+
+Uri: https://cdn2.editmysite.com/images/blank.gif
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\images\blank.gif
+Content Type: image/gif
+
+Uri: https://cdn2.editmysite.com/images/common/blog/blog-comment-button.png
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\images\common\blog\blog-comment-button.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/common/blog/blog-comment-field-bg.png
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\images\common\blog\blog-comment-field-bg.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/common/blog/blog-comment-header-author.png
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\images\common\blog\blog-comment-header-author.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/common/blog/blog-comment-header.png
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\images\common\blog\blog-comment-header.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/common/blog/blog-comment-link.png
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\images\common\blog\blog-comment-link.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/common/blog/blog-comment-pointer-author.png
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\images\common\blog\blog-comment-pointer-author.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/common/blog/blog-comment-pointer.png
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\images\common\blog\blog-comment-pointer.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/common/blog/dark-blog-comment-header-author.png
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\images\common\blog\dark-blog-comment-header-author.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/common/blog/dark-blog-comment-header.png
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\images\common\blog\dark-blog-comment-header.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/common/blog/dark-blog-comment-link.png
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\images\common\blog\dark-blog-comment-link.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/common/blog/dark-blog-comment-pointer-author.png
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\images\common\blog\dark-blog-comment-pointer-author.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/common/blog/dark-blog-comment-pointer.png
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\images\common\blog\dark-blog-comment-pointer.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/common/buttons/large_blue.png
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\images\common\buttons\large_blue.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/common/buttons/small_blue.png
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\images\common\buttons\small_blue.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/common/buttons/small_grey.png
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\images\common\buttons\small_grey.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/common/checkmarks/@2x/checkmark-mini.png
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\images\common\checkmarks\@2x\checkmark-mini.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/common/checkmarks/checkmark-mini.png
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\images\common\checkmarks\checkmark-mini.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/common/form_input_bg.gif
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\images\common\form_input_bg.gif
+Content Type: image/gif
+
+Uri: https://cdn2.editmysite.com/images/common/lightbox/nextlabel.gif
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\images\common\lightbox\nextlabel.gif
+Content Type: image/gif
+
+Uri: https://cdn2.editmysite.com/images/common/lightbox/prevlabel.gif
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\images\common\lightbox\prevlabel.gif
+Content Type: image/gif
+
+Uri: https://cdn2.editmysite.com/images/common/magnifying-glass.png
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\images\common\magnifying-glass.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/common/search-light.png
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\images\common\search-light.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/common/search-pagination-bg.png
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\images\common\search-pagination-bg.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/common/social_icons.png
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\images\common\social_icons.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/loading.gif
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\images\loading.gif
+Content Type: image/gif
+
+Uri: https://cdn2.editmysite.com/images/old/button/large_grey.png
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\images\old\button\large_grey.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/old/fancybox/blank.gif
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\images\old\fancybox\blank.gif
+Content Type: image/gif
+
+Uri: https://cdn2.editmysite.com/images/old/fancybox/fancybox_loading.gif
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\images\old\fancybox\fancybox_loading.gif
+Content Type: image/gif
+
+Uri: https://cdn2.editmysite.com/images/old/fancybox/fancybox_overlay.png
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\images\old\fancybox\fancybox_overlay.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/old/fancybox/fancybox_sprite.png
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\images\old\fancybox\fancybox_sprite.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/old/loading.gif
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\images\old\loading.gif
+Content Type: image/gif
+
+Uri: https://cdn2.editmysite.com/images/old/photoswipe/error.gif
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\images\old\photoswipe\error.gif
+Content Type: image/gif
+
+Uri: https://cdn2.editmysite.com/images/old/photoswipe/icons.png
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\images\old\photoswipe\icons.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/old/photoswipe/icons@2x.png
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\images\old\photoswipe\icons@2x.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/old/photoswipe/loader.gif
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\images\old\photoswipe\loader.gif
+Content Type: image/gif
+
+Uri: https://cdn2.editmysite.com/images/old/slideshow/control_icons.gif
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\images\old\slideshow\control_icons.gif
+Content Type: image/gif
+
+Uri: https://cdn2.editmysite.com/images/old/slideshow/header_slideshow_sprites.png
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\images\old\slideshow\header_slideshow_sprites.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/old/slideshow/header_slideshow_sprites1x.png
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\images\old\slideshow\header_slideshow_sprites1x.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/site/checkout/@2x/credit-cards.png
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\images\site\checkout\@2x\credit-cards.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/site/checkout/@2x/paypal.png
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\images\site\checkout\@2x\paypal.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/site/checkout/credit-cards.png
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\images\site\checkout\credit-cards.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/site/checkout/paypal.png
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\images\site\checkout\paypal.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/site/checkout/print.png
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\images\site\checkout\print.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/site/checkout/print@2x.png
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\images\site\checkout\print@2x.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/site/footer/footer-toast-published-image-1.png
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\images\site\footer\footer-toast-published-image-1.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/util/general/blank.gif
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\images\util\general\blank.gif
+Content Type: image/gif
+
+Uri: https://cdn2.editmysite.com/images/util/general/bottom-triangle-000.png
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\images\util\general\bottom-triangle-000.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/util/general/bottom-triangle-000@2x.png
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\images\util\general\bottom-triangle-000@2x.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/util/general/top-triangle-000.png
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\images\util\general\top-triangle-000.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/util/general/top-triangle-000@2x.png
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\images\util\general\top-triangle-000@2x.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/util/inputs/search-input-bg.jpg
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\images\util\inputs\search-input-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn2.editmysite.com/images/util/loading-white-w24.gif
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\images\util\loading-white-w24.gif
+Content Type: image/gif
+
+Uri: https://cdn2.editmysite.com/images/util/spinner/spinner-dark.png
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\images\util\spinner\spinner-dark.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/util/spinner/spinner-light.png
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\images\util\spinner\spinner-light.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/util/videojs/@2x/blue-bar.png
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\images\util\videojs\@2x\blue-bar.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/util/videojs/@2x/gradient.png
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\images\util\videojs\@2x\gradient.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/util/videojs/@2x/loading-icon.png
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\images\util\videojs\@2x\loading-icon.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/util/videojs/@2x/maximize-icon.png
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\images\util\videojs\@2x\maximize-icon.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/util/videojs/@2x/minimize-icon.png
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\images\util\videojs\@2x\minimize-icon.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/util/videojs/@2x/play-icon.png
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\images\util\videojs\@2x\play-icon.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/util/videojs/@2x/sad-face.png
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\images\util\videojs\@2x\sad-face.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/util/videojs/@2x/volume-filled.png
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\images\util\videojs\@2x\volume-filled.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/util/videojs/@2x/volume-mute.png
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\images\util\videojs\@2x\volume-mute.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/util/videojs/@2x/white-bar.png
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\images\util\videojs\@2x\white-bar.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/util/videojs/blue-bar.png
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\images\util\videojs\blue-bar.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/util/videojs/gradient.png
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\images\util\videojs\gradient.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/util/videojs/loading-icon.png
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\images\util\videojs\loading-icon.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/util/videojs/maximize-icon.png
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\images\util\videojs\maximize-icon.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/util/videojs/minimize-icon.png
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\images\util\videojs\minimize-icon.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/util/videojs/play-icon.png
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\images\util\videojs\play-icon.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/util/videojs/sad-face.png
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\images\util\videojs\sad-face.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/util/videojs/volume-filled.png
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\images\util\videojs\volume-filled.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/util/videojs/volume-mute.png
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\images\util\videojs\volume-mute.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/util/videojs/white-bar.png
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\images\util\videojs\white-bar.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/vendor/select2/select2-spinner.gif
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\images\vendor\select2\select2-spinner.gif
+Content Type: image/gif
+
+Uri: https://cdn2.editmysite.com/images/vendor/select2/select2.png
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\images\vendor\select2\select2.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/vendor/select2/select2x2.png
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\images\vendor\select2\select2x2.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/js/jquery-1.8.3.min.js
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\js\jquery-1.8.3.min.js
+Content Type: application/javascript
+
+Uri: https://cdn2.editmysite.com/js/lang/en/stl.js?buildTime=1743114653&
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\js\lang\en\stl.js
+Content Type: application/javascript
+
+Uri: https://cdn2.editmysite.com/js/old/slideshow-jq.js?buildTime=1743114653
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\js\old\slideshow-jq.js
+Content Type: application/javascript
+
+Uri: https://cdn2.editmysite.com/js/site/footerSignup.js?buildTime=1743114653
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\js\site\footerSignup.js
+Content Type: application/javascript
+
+Uri: https://cdn2.editmysite.com/js/site/main-customer-accounts-site.js?buildTime=1743114653
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\js\site\main-customer-accounts-site.js
+Content Type: application/javascript
+
+Uri: https://cdn2.editmysite.com/js/site/main.js?buildTime=1743114653
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\js\site\main.js
+Content Type: application/javascript
+
+Uri: https://cdn2.editmysite.com/sprites/common/social-icons-s5ea5500bdb.png
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\sprites\common\social-icons-s5ea5500bdb.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/sprites/common/social-icons/@2x-s0ae7d70c70.png
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\sprites\common\social-icons\@2x-s0ae7d70c70.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/sprites/site/forms-s3786257308.png
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\sprites\site\forms-s3786257308.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/sprites/site/forms/@2x-s47607b315a.png
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\sprites\site\forms\@2x-s47607b315a.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/sprites/site/mini-cart-s86c48effae.png
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\sprites\site\mini-cart-s86c48effae.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/sprites/site/mini-cart/@2x-s576cbc3f90.png
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\sprites\site\mini-cart\@2x-s576cbc3f90.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/sprites/site/mobile/commerce-sdf6d4e852c.png
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\sprites\site\mobile\commerce-sdf6d4e852c.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/sprites/site/mobile/commerce/@2x-s82f968c453.png
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\sprites\site\mobile\commerce\@2x-s82f968c453.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/sprites/util/inputs/checkmarkBox-s7868418152.png
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\sprites\util\inputs\checkmarkBox-s7868418152.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/sprites/util/inputs/checkmarkBox/@2x-s211a47d318.png
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\sprites\util\inputs\checkmarkBox\@2x-s211a47d318.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/sprites/util/videojs-sacae758aa2.png
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\sprites\util\videojs-sacae758aa2.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/sprites/util/videojs/@2x-s2aff7e7d9a.png
+File Name: G:\Armor inno\Armorshield\armorshieldinno.weebly.com\sprites\util\videojs\@2x-s2aff7e7d9a.png
+Content Type: image/png
+
