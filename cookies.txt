@@ -1,5 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-.weebly.com	TRUE	/	FALSE	1999999999	__cf_bm	XzhdjjxHg3Dxmgc_tDJ5X7zS6PHvIW.VdfSknWxrIFE-1743153814-1.0.1.1-BXR.JwXGkFfzfB9Nucfh.FIfXJBhW99M9Dw0e5MxESCqE2LHqpOCx3q7XP_LCTpU2EczEE6BYGhufHddyPxXyYdfsUUyfbWn3axdnuuSlYs
-armorshieldinno.weebly.com	TRUE	/	FALSE	1999999999	SameSite	None
-
